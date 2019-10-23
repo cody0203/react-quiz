@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-quiz/static/css/main.1b97c2e8.chunk.css",
+    "main.js": "/react-quiz/static/js/main.75f67b83.chunk.js",
+    "main.js.map": "/react-quiz/static/js/main.75f67b83.chunk.js.map",
+    "runtime-main.js": "/react-quiz/static/js/runtime-main.9376759c.js",
+    "runtime-main.js.map": "/react-quiz/static/js/runtime-main.9376759c.js.map",
+    "static/css/2.0624914a.chunk.css": "/react-quiz/static/css/2.0624914a.chunk.css",
+    "static/js/2.d4332ceb.chunk.js": "/react-quiz/static/js/2.d4332ceb.chunk.js",
+    "static/js/2.d4332ceb.chunk.js.map": "/react-quiz/static/js/2.d4332ceb.chunk.js.map",
+    "index.html": "/react-quiz/index.html",
+    "precache-manifest.335e97e4c99689b6d379809e381403e1.js": "/react-quiz/precache-manifest.335e97e4c99689b6d379809e381403e1.js",
+    "service-worker.js": "/react-quiz/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/react-quiz/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.1b97c2e8.chunk.css.map": "/react-quiz/static/css/main.1b97c2e8.chunk.css.map",
+    "static/media/background-sound.mp3": "/react-quiz/static/media/background-sound.4b697e1e.mp3",
+    "static/media/correct.mp3": "/react-quiz/static/media/correct.8dd77828.mp3",
+    "static/media/quiz-background.svg": "/react-quiz/static/media/quiz-background.d1d9f1db.svg",
+    "static/media/refreshing.svg": "/react-quiz/static/media/refreshing.5526e831.svg",
+    "static/media/wrong.mp3": "/react-quiz/static/media/wrong.0b4c861a.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9376759c.js",
+    "static/css/2.0624914a.chunk.css",
+    "static/js/2.d4332ceb.chunk.js",
+    "static/css/main.1b97c2e8.chunk.css",
+    "static/js/main.75f67b83.chunk.js"
+  ]
+}
